@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: ZoZHuBGlobal, Tenant: RS Carriers (rscarriers.co.za - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
